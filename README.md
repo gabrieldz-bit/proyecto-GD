@@ -1,5 +1,7 @@
 # ANÁLISIS Y VISUALIZACIÓN DE DATOS
 
+## Integrantes: Gabriel Felipe Diaz, cristian forero, daniel Garcia y robert borja
+
 ## Descripción del proyecto
 
 Repositorio académico correspondiente al proyecto de la asignatura Electiva1.
